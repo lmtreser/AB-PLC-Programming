@@ -2,7 +2,7 @@
 
 This image represents a simple batch mixing process automated using a PLC (Programmable Logic Controller). The system automatically fills, mixes, and discharges liquid into a finished tank using solenoid valves, flow meters, a stirrer motor, and a low-level switch.
 
-![](Batch Mixing Process – Full Breakdown.jpeg)
+![](./Batch Mixing Process – Full Breakdown.jpeg)
 
 ## COMPONENTS IN THE SYSTEM
 
